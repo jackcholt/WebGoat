@@ -5,6 +5,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/b69ee3a86e3b4afcaf993f210fccfb1d)](https://www.codacy.com/app/dm/WebGoat)
 [![Dependency Status](https://www.versioneye.com/user/projects/562da95ae346d7000e0369aa/badge.svg?style=flat)](https://www.versioneye.com/user/projects/562da95ae346d7000e0369aa)
 [![OWASP Labs](https://img.shields.io/badge/owasp-labs-orange.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Labs_Projects)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjackcholt%2FWebGoat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjackcholt%2FWebGoat?ref=badge_shield)
 
 # Important
 
@@ -158,3 +159,7 @@ docker tag webgoat/webgoat-8.0 webgoat/webgoat-8.0:8.0
 docker login
 docker push webgoat/webgoat-8.0
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjackcholt%2FWebGoat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjackcholt%2FWebGoat?ref=badge_large)
